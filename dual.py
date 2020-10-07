@@ -3,6 +3,7 @@ from numpy import cos, sin, pi, sqrt, exp, arccos;
 tau = 2*pi
 import numpy as np;
 from matplotlib import pyplot as plt
+import algopy
 
 class DualNumberArray(numpy.ndarray):
     def __mul__():
